@@ -158,6 +158,10 @@ main {
     opacity: 0.8;
 }
 
+.abc {
+    width: 75%;
+}
+
 .abc hr {
     float: left;
 }
