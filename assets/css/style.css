@@ -157,3 +157,12 @@ main {
     margin-top: 20px;
     opacity: 0.8;
 }
+
+.abc hr {
+    float: left;
+}
+
+.video iframe {
+    width: 500px; 
+    height: 300px;
+}
