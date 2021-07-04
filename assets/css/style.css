@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #f7f7f7;
+}
+
+.nav-item {
+    margin-left: 40px;
+}
+
+main {
+    width: 100%;
+}
+
+.clear {
+    clear: left;
+}
+
+.home {
+    padding: 200px 0 180px 0;
+    color: black;
+    background-image: url('gambar.jpg');
+    background-size: cover;
+}
+
+.atas-kanan {
+    float: right;
+}
+
+.atas-kanan img {
+    height: 300px;
+}
+
+.atas-kiri {
+    float: left;
+    margin-top: 50px;
+}
+
+.home h1 {
+    opacity: 0.9;
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+}
+
+.btn {
+    padding: 12px 32px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+.info {
+    color: white;
+    background-color: rgb(255, 39, 39);
+    border-radius: 8px;
+    border: 2px solid white;
+    font-size: 20px;
+}
+
+.info:hover {
+    transition: all 0.5s;
+    border: 2px solid rgb(255, 39, 39);
+    color: rgb(255, 39, 39);
+    background-color: white;
+}
+
+.btn-home {
+    margin: 100px 0 0 20px;
+}
+
+.left {
+    float: left;
+}
+
+.profil {
+    padding-bottom: 100px;
+}
+
+.heading {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    color: rgb(63, 0, 0);
+}
+
+.heading h1 {
+    font-weight: normal;
+    font-size: 30px;
+    opacity: 0.8;
+}
+
+.heading hr {
+    margin: 0 auto;
+}
+
+.logo-profil {
+    margin-left: 12.5%;
+    width: 75%;
+    margin-top: 40px;
+}
+
+.fa {
+    color: rgb(255, 85, 85);
+}
+
+.lfeature {
+    position: relative;
+    padding-right: 90px;
+    margin-bottom: 65px;
+    text-align: right;
+    margin-top: 35px;
+}
+
+.lfeature div {
+    position: absolute;
+    right: 0;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    top: -8px;
+}
+
+.rfeature {
+    position: relative;
+    padding-left: 90px;
+    margin-bottom: 65px;
+    text-align: left;
+    margin-top: 35px;
+}
+
+.rfeature div {
+    position: absolute;
+    left: 0;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    top: -8px;
+}
+
+.profil a {
+    color: #333333;
+    font-size: 24px;
+}
+
+.profil a:hover {
+    text-decoration: underline;
+}
+
+.profil p {
+    color: #333;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 20px;
+    opacity: 0.8;
+}

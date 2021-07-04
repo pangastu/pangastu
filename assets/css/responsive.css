@@ -1,0 +1,15 @@
+@media (max-width: 1140px) {
+    .home {
+        text-align: center;
+    }
+    .atas-kanan {
+        float: none;
+        margin: 0 auto;
+    }
+    .atas-kanan img {
+        height: 240px;
+    }
+    .btn {
+        width: 100%;
+    }
+}
