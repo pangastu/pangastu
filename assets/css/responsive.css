@@ -12,18 +12,23 @@
     .btn {
         width: 100%;
     }
-    .video {
+    .video, .kontak {
         text-align: center;
     }
     .abc hr {
         float: none;
     }
-    .video iframe {
+    iframe {
         width: 300px; 
         height: 180px;
         margin-top: 80px;
+        margin-left: auto;
+        margin-right: auto;
     }
     .abc {
         width: 100%;
+    }
+    .heada {
+        display: none;
     }
 }

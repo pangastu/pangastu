@@ -166,7 +166,7 @@ main {
     float: left;
 }
 
-.video iframe {
+iframe {
     width: 500px; 
     height: 300px;
 }
@@ -176,4 +176,48 @@ main {
     color: black;
     background-image: url('PIC_9.jpg');
     background-size: cover;
+}
+
+.kontak {
+    padding-bottom: 120px;
+}
+
+.icons {
+    float: left;
+}
+
+.icon {
+    position: relative;
+    padding-left: 80px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.icon .fa {
+    color: black;
+}
+
+.icon div {
+    position: absolute;
+    left: 0;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    top: -8px;
+}
+
+.icon h2 {
+    font-size: 16px;
+    color: #333333;
+    opacity: 0.8;
+}
+
+.icon h2:hover {
+    font-size: 20px;
+    color: #333333;
+    opacity: 1;
+}
+
+.heada {
+    display: block;
 }
