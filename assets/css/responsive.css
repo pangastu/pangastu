@@ -2,6 +2,9 @@
     .home {
         text-align: center;
     }
+    .home .atas-kiri {
+        float: none;
+    }
     .atas-kanan {
         float: none;
         margin: 0 auto;
@@ -30,5 +33,8 @@
     }
     .heada {
         display: none;
+    }
+    table {
+        font-size: 12px;
     }
 }
