@@ -225,3 +225,11 @@ iframe {
 .heada {
     display: block;
 }
+
+.dalam {
+    text-align: center;
+}
+
+.dalam img {
+    width: 90%;
+}
