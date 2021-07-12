@@ -37,4 +37,9 @@
     table {
         font-size: 12px;
     }
+    .bn {
+        width: 270px;
+        height: 165px;
+        margin-top: 0px;
+    }
 }
