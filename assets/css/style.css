@@ -227,5 +227,6 @@ iframe {
 }
 
 .dalam img {
-    width: 60%;
+    width: 50%;
+    margin: 10px 0px 20px 0px;
 }
